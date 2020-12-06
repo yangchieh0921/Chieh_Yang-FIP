@@ -1,0 +1,46 @@
+[05-Dec-2020 22:49:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/chieddvu/public_html/about.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/chieddvu/public_html/about.php on line 10
+[05-Dec-2020 22:50:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/chieddvu/public_html/about.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/chieddvu/public_html/about.php on line 10
+[05-Dec-2020 22:54:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/chieddvu/public_html/about.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/chieddvu/public_html/about.php on line 10
+[05-Dec-2020 22:55:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/chieddvu/public_html/about.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/chieddvu/public_html/about.php on line 10
+[05-Dec-2020 23:07:46 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'chieddvu_db.portfolios' doesn't exist in /home/chieddvu/public_html/about.php:8
+Stack trace:
+#0 /home/chieddvu/public_html/about.php(8): PDO->query('SELECT * FROM p...')
+#1 {main}
+  thrown in /home/chieddvu/public_html/about.php on line 8
+[05-Dec-2020 23:08:22 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'chieddvu_db.portfolios' doesn't exist in /home/chieddvu/public_html/about.php:8
+Stack trace:
+#0 /home/chieddvu/public_html/about.php(8): PDO->query('SELECT * FROM p...')
+#1 {main}
+  thrown in /home/chieddvu/public_html/about.php on line 8
+[05-Dec-2020 23:08:41 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'chieddvu_db.portfolios' doesn't exist in /home/chieddvu/public_html/about.php:8
+Stack trace:
+#0 /home/chieddvu/public_html/about.php(8): PDO->query('SELECT * FROM p...')
+#1 {main}
+  thrown in /home/chieddvu/public_html/about.php on line 8
+[05-Dec-2020 23:08:42 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'chieddvu_db.portfolios' doesn't exist in /home/chieddvu/public_html/about.php:8
+Stack trace:
+#0 /home/chieddvu/public_html/about.php(8): PDO->query('SELECT * FROM p...')
+#1 {main}
+  thrown in /home/chieddvu/public_html/about.php on line 8
+[05-Dec-2020 23:08:43 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'chieddvu_db.portfolios' doesn't exist in /home/chieddvu/public_html/about.php:8
+Stack trace:
+#0 /home/chieddvu/public_html/about.php(8): PDO->query('SELECT * FROM p...')
+#1 {main}
+  thrown in /home/chieddvu/public_html/about.php on line 8
+[05-Dec-2020 23:08:46 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'chieddvu_db.portfolios' doesn't exist in /home/chieddvu/public_html/about.php:8
+Stack trace:
+#0 /home/chieddvu/public_html/about.php(8): PDO->query('SELECT * FROM p...')
+#1 {main}
+  thrown in /home/chieddvu/public_html/about.php on line 8
