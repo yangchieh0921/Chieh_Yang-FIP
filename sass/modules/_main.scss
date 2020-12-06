@@ -1,0 +1,302 @@
+body {
+    max-width: 100%;
+    max-height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+
+  @font-face {
+    src: url(fonts/Gloss_And_Bloom.ttf);
+    font-family: gloss;
+  }
+
+.main-picture {
+  width: 500px;
+  height: auto;
+}
+
+.main-picture-wraper {
+  padding-top: 150px; 
+  margin-left: 200px;
+}
+
+.main-page-section {
+  background-color: rgb(33, 33, 33);
+}
+
+.main-page-container {
+  display: flex;
+}
+
+/*
+.main-bckrd-image {
+  width: 600px;
+  height: 500px;
+}
+
+.main-page-bckrd {
+  padding: 100px 0;
+  margin-left: 100px;
+}
+*/
+
+.main-page-title-wraper {
+  padding-top: 150px;
+  padding-left: 100px;
+}
+
+.main-page-title {
+  font-size: 90px;
+  color: white;
+}
+
+.main-page-subTitle-wraper {
+  text-align: center;
+}
+
+.main-page-intro-section {
+  background-color: rgb(33, 33, 33);
+  height: 700px;
+}
+
+.main-page-intro-title-wraper {
+  display: inline-block;
+  padding-left: 150px;
+}
+
+.main-page-intro-image-wraper {
+  display: inline-block;
+  padding-left: 150px;
+  padding-top: 100px;
+}
+
+.main-page-intro-title {
+  font-size: 120px;
+  color: white;
+  text-align: center;
+}
+
+.main-page-intro-image {
+  width: 400px;
+  height: 500px;
+}
+
+.main-page-intro-words-wrapper {
+  padding-left: 50px;
+  padding-top: 50px;
+}
+
+.main-page-intro-second-words-wrapper {
+  padding-left: 600px;
+}
+
+.main-page-intro-words {
+  font-size: 50px;
+  color: black;
+}
+
+.main-page-intro-skills-section {
+  background-color: rgb(233, 232, 225);
+  height: 800px;
+}
+
+.main-page-intro-skills-title {
+  font-size: 80px;
+  color: black;
+  text-align: center;
+  margin-right: 200px;
+}
+
+.main-page-intro-skills-title-wrapper {
+  padding-top: 50px;
+  padding-left: 200px;
+  
+}
+
+.main-page-intro-skills-image {
+  width: 300px;
+  height: 300px;
+}
+
+.main-page-intro-skills-image-wrapper {
+  padding-left: 50px;
+}
+
+.main-page-intro-skills-image-words {
+  font-size: 60px;
+  color: black;
+  text-align: center;
+}
+
+.main-page-quto {
+  font-size: 30px;
+  color: black;
+  text-align: center;
+}
+
+.main-page-quto-wrapper {
+  padding-top: 50px;
+}
+
+.main-page-projects-section {
+  background-color: rgb(33, 33, 33);
+  height: 950px;
+}
+
+.main-page-projects-wrapper {
+  padding-top: 60px;
+}
+
+.main-page-projects-title {
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+.main-page-projects-intro-subTitle {
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+
+.main-page-projects-intro-image {
+  width: 800px;
+  height: 500px;
+}
+.main-page-projects-intro-image-wrapper {
+  padding-left: 290px;
+  padding-top: 40px;
+}
+
+.main-page-projects-intro-words {
+  font-size: 30px;
+  color: white;
+  text-align: center;
+}
+
+.main-header-instagram {
+      width: 40px;
+      height: 40px;
+  }
+
+  .main-header-facebook {
+      width: 40px;
+      height: 40px;
+
+  }
+
+  .header-facebook-wraper {
+    display: inline-block;
+    margin-left: 50px;
+  }
+
+  .header-instagram-wraper {
+    display: inline-block;
+  }
+
+.main-page-future-plan-title {
+  font-size: 80px;
+  text-align: center;
+  color: gold;
+}
+
+.main-page-future-plan-image {
+  width: 300px;
+}
+
+.main-page-future-plan-image-wrapper {
+  padding-left: 560px;
+}
+
+.main-page-future-plan-words {
+  font-size: 30px;
+}
+
+.main-page-future-plan-words-wrapper {
+  padding: 60px;
+}
+
+h4 {
+  text-align: center;
+  font-size: 48px;
+  color: white;
+  padding-top: 100px;
+}
+
+.about-page-portfolio-title {
+  background-color: black;
+}
+
+.sportnet-image {
+  width: 500px;
+  height: 300px;
+}
+
+.portfolio-image-first {
+  position: relative;
+  display: inline-table;
+  text-align: center;
+  align-items: center;
+  margin: 25px 25px;
+  color: white;
+  font-size: 30px;
+  padding-left: 80px;
+
+}
+
+.beer-website-image-section {
+  width: 50%;
+  
+}
+
+.beer-website-image {
+  width: 700px;
+  height: 400px;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.beer-website-content {
+  text-align: center;
+  align-items: stretch;
+  padding: 20px;
+  color: white;
+  width:50%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.beer-website-section {
+  background-color: black;
+  width: calc(50% - 20px);
+  margin: 10px;
+  padding: 20px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+}
+
+.beer-website {
+  display: flex;
+}
+
+.skills-icon {
+  align-items: center;
+}
+
+
+.icon {
+  width: 80px;
+  height: 80px;
+  margin: 50px;
+  align-items: center;
+
+}
+
+
+
+
