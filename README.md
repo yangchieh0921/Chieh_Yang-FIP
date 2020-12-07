@@ -1,4 +1,6 @@
 Chieh Yang Portfolio Website
+
+
 Welcome! This is my portfolio website which describes some information about me and showing all my works 
 
 Description
@@ -19,6 +21,7 @@ SASS
 VUE
 JS
 PHP
+
 Intallation
 This is a 4-pages dynamic website that has a responsive design. The website has an SQL database and all information in the portfolio section is retrieving from the database into hbs file. The dynamic data (lightbox) is appeared by clicking on the portfolio pieces. There are all kinds of animation (keyframes), traisition applied in portfolio website.
 
