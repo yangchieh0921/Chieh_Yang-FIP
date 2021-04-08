@@ -1,8 +1,7 @@
 
 # Chieh Yang Portfolio Website]
 Welcome! This is my portfolio website which describes some information about me and showing all my works 
-My website: chieh.ca
-
+My website: https://www.chieh.ca/
 ## Description
 This is my portfolio website which present you all my projects and skillset as a motion and as a graphic designer to potential clients and employers.
 
